@@ -8,7 +8,7 @@ body {
 
   .menu {
     width: 80%;
-    max-width: 500px;
+    max-width: 500px;             /* To prevent the growth of the content with various screen sizes */
     background-color: burlywood;
     margin-left: auto;
     margin-right: auto;
